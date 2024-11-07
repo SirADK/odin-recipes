@@ -1,0 +1,37 @@
+body{
+    background-color:#8989ce;
+     color:black; 
+     text-align:left;
+}
+h1{
+    background-color:rgb(190, 69, 89);
+    color:white;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.fries{
+    background-color: blueviolet;
+    color: azure;
+    text-align: justify;
+}
+
+.rice{
+    background-color:brown;
+    color: bisque;
+    text-align: justify;
+    
+}
+
+.noodle{
+    background-color:rgba(66, 136, 66, 0.295) ;
+    color: beige;
+    text-align: justify;
+}
+
+h2{
+    background-color: aliceblue;
+    color:black;
+    text-align: center;
+}
